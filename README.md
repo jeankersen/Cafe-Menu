@@ -1,2 +1,2 @@
 # Cafe-Menu
-2nd project on Web Design Freecodecamp Curriculum
+2nd project in Web Design Freecodecamp Curriculum
