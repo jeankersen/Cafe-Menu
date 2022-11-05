@@ -86,11 +86,11 @@ hr {
   a:visited {
 	color: black;
   }
-
+// mouse on item
   a:hover {
 	color: brown;
   }
-
+// when click
   a:active {
-	color: brown;
+	color: brown; 
   }
